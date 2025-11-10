@@ -1,0 +1,10 @@
+git clone 
+git init - to initialise a local repository
+
+git add 
+git commit 
+
+git push 
+
+git log 
+git status 
