@@ -8,3 +8,5 @@ git push
 
 git log 
 git status 
+
+git checkout -b
